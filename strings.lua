@@ -143,7 +143,7 @@ return {
 	de = {
 
 		["mod_name"] = "Sdggmrss T3000e",
-		["mod_desc"] = "Durch ein Verbundforschungprojekt der EU begann im Jahr 2001 die Entwicklung eines Gelenk-Taschenwagens für den Transport von Megatrailern. Im Jahr 2001 wurde beim Schweizer Hersteller Ferriere Cattaneo ein erste Prototyp gebaut und sorgfältig erprobt. 2002 wird der Wagen im Duss Terminal Köln Eifeltor der Öffentlichkeit vorgestellt, ab dem Jahr 2006 begann die Serienproduktion des T3000e. Ab dem Jahr 2017 wurde der Wagen mit zusätzlichen Aufssetzzapfen nach ISO-Norm ausgerüstet umd den Transport von 30ft Containern zu ermöglichen.",
+		["mod_desc"] = "Durch ein Verbundforschungsprojekt der EU begann im Jahr 2001 die Entwicklung eines Gelenk-Taschenwagens für den Transport von Megatrailern. Im Jahr 2001 wurde beim Schweizer Hersteller Ferriere Cattaneo ein erste Prototyp gebaut und sorgfältig erprobt. 2002 wird der Wagen im Duss Terminal Köln Eifeltor der Öffentlichkeit vorgestellt, ab dem Jahr 2006 begann die Serienproduktion des T3000e. Ab dem Jahr 2017 wurde der Wagen mit zusätzlichen Aufssetzzapfen nach ISO-Norm ausgerüstet um den Transport von 30ft Containern zu ermöglichen.",
 
 		["option_fake_wagen_desc"] = "Sollen die Fake-Versionen des T3000e Sdggmrss verfügbar sein im Spiel?",
 		["Fake_t3000e_wagen"] = "Fake-Versionen aktivieren?",
@@ -214,10 +214,10 @@ return {
 		["t3000e_wascosa4_name_container"] = "Sdggmrss WASCOSA 2 (2015) Container",
 		["t3000e_wascosa4_name_trailer"] = "Sdggmrss WASCOSA 2 (2015) Trailer",
 				
-        ["2_riegel_desc"] = "Mit zwei Klapprigel pro seite für 45ft, 40ft, 26ft, und 20ft Container",
-        ["4_riegel_desc"] = "Mit vier Klapprigel pro seite für 45ft, 40ft, 30ft, 26ft, und 20ft Container",		
+        ["2_riegel_desc"] = " Mit zwei Klapprigel pro seite für 45ft, 40ft, 26ft, und 20ft Container",
+        ["4_riegel_desc"] = " Mit vier Klapprigel pro seite für 45ft, 40ft, 30ft, 26ft, und 20ft Container",		
 		
-        ["t3000e_desc"] = "Durch ein Verbundforschungprojekt der EU begann im Jahr 2001 die Entwicklung eines Gelenk-Taschenwagens für den Transport von Megatrailern. Im Jahr 2001 wurde beim Schweizer Hersteller Ferriere Cattaneo ein erste Prototyp gebaut und sorgfältig erprobt. 2002 wird der Wagen im Duss Terminal Köln Eifeltor der Öffentlichkeit vorgestellt, ab dem Jahr 2006 begann die Serienproduktion des T3000e. Ab dem Jahr 2017 wurde der Wagen mit zusätzlichen Aufssetzzapfen nach ISO-Norm ausgerüstet umd den Transport von 30ft Containern zu ermöglichen.",
+        ["t3000e_desc"] = "Durch ein Verbundforschungsprojekt der EU begann im Jahr 2001 die Entwicklung eines Gelenk-Taschenwagens für den Transport von Megatrailern. Im Jahr 2001 wurde beim Schweizer Hersteller Ferriere Cattaneo ein erste Prototyp gebaut und sorgfältig erprobt. 2002 wird der Wagen im Duss Terminal Köln Eifeltor der Öffentlichkeit vorgestellt, ab dem Jahr 2006 begann die Serienproduktion des T3000e. Ab dem Jahr 2017 wurde der Wagen mit zusätzlichen Aufssetzzapfen nach ISO-Norm ausgerüstet um den Transport von 30ft Containern zu ermöglichen.",
 
 		--- Ganzzug ---		
 		["t3000e_2_ekol_name_ekol"] = "Sdggmrss 2 Ekol (2018) Ekol",
