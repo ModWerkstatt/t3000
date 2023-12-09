@@ -32,6 +32,9 @@ return {
 		["t3000e_wascosa3_name"] = "Sdggmrss WASCOSA 1 (2015)",
 		["t3000e_wascosa4_name"] = "Sdggmrss WASCOSA 2 (2015)",
 				
+        ["2_riegel_desc"] = " With two folding latches per side for 45 ft, 40 ft, 26 ft, and 20 ft containers.",
+        ["4_riegel_desc"] = " With four folding bars per side for 45 ft, 40 ft, 30 ft, 26 ft, and 20 ft containers",	
+		
         ["t3000e_desc"] = "An EU joint research project began the development of an articulated pocket wagon for the transport of mega trailers in 2001. In 2001, a first prototype was built and carefully tested by the Swiss manufacturer Ferriere Cattaneo. In 2002 the car was presented to the public in the Duss Terminal Cologne Eifeltor, and series production of the T3000e began in 2006. From 2017, the car was equipped with additional mounting pins according to ISO standards to enable the transport of 30ft containers.",
 		
 		--- Ganzzug ---		
@@ -214,8 +217,8 @@ return {
 		["t3000e_wascosa4_name_container"] = "Sdggmrss WASCOSA 2 (2015) Container",
 		["t3000e_wascosa4_name_trailer"] = "Sdggmrss WASCOSA 2 (2015) Trailer",
 				
-        ["2_riegel_desc"] = " Mit zwei Klapprigel pro seite für 45ft, 40ft, 26ft, und 20ft Container",
-        ["4_riegel_desc"] = " Mit vier Klapprigel pro seite für 45ft, 40ft, 30ft, 26ft, und 20ft Container",		
+        ["2_riegel_desc"] = " Mit zwei Klapprigel pro Seite für 45 ft, 40 ft, 26 ft, und 20 ft Container",
+        ["4_riegel_desc"] = " Mit vier Klapprigel pro Seite für 45 ft, 40 ft, 30 ft, 26 ft, und 20 ft Container",		
 		
         ["t3000e_desc"] = "Durch ein Verbundforschungsprojekt der EU begann im Jahr 2001 die Entwicklung eines Gelenk-Taschenwagens für den Transport von Megatrailern. Im Jahr 2001 wurde beim Schweizer Hersteller Ferriere Cattaneo ein erste Prototyp gebaut und sorgfältig erprobt. 2002 wird der Wagen im Duss Terminal Köln Eifeltor der Öffentlichkeit vorgestellt, ab dem Jahr 2006 begann die Serienproduktion des T3000e. Ab dem Jahr 2017 wurde der Wagen mit zusätzlichen Aufssetzzapfen nach ISO-Norm ausgerüstet um den Transport von 30ft Containern zu ermöglichen.",
 
