@@ -439,7 +439,7 @@ return {
 			price = -1,
 		},
 		description = {
-			name = _("t3000e_2_nacco_name"),
+			name = _("t3000e_2_nacco_name_container"),
 			description = _("t3000e_desc") .. _("4_riegel_desc"),
 		},
 		emission = {

@@ -433,7 +433,7 @@ return {
 			price = -1,
 		},
 		description = {
-			name = _("t3000e_2_hupac_name"),
+			name = _("t3000e_2_hupac_name_trailer"),
 			description = _("t3000e_desc") .. _("4_riegel_desc"),
 		},
 		emission = {
