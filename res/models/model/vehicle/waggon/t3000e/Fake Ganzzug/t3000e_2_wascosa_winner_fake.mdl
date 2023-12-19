@@ -483,22 +483,22 @@ return {
 					axles = { "vehicle/waggon/modwerkstatt_basis/dg_achse_920mm_lod1.msh", },
 					fakeBogies = {
 						{
-							group = 15,
+							group = 13,
 							offset = 0,
 							position = 0,
 						},
 						{
-							group = 15,
+							group = 13,
 							offset = 0,
 							position = -14.2,
 						},
 						{
-							group = 17,
+							group = 15,
 							offset = 0,
 							position = 0,
 						},
 						{
-							group = 17,
+							group = 15,
 							offset = 0,
 							position = 14.2,
 						},
@@ -508,22 +508,22 @@ return {
 					axles = { "vehicle/waggon/modwerkstatt_basis/dg_achse_920mm_lod2.msh", },
 					fakeBogies = {
 						{
-							group = 15,
+							group = 13,
 							offset = 0,
 							position = 0,
 						},
 						{
-							group = 15,
+							group = 13,
 							offset = 0,
 							position = -14.2,
 						},
 						{
-							group = 17,
+							group = 15,
 							offset = 0,
 							position = 0,
 						},
 						{
-							group = 17,
+							group = 15,
 							offset = 0,
 							position = 14.2,
 						},
